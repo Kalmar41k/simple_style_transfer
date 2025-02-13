@@ -25,7 +25,7 @@ conda create --name <env> --file environment.yml
 
 ## How to Run
 Clone this repository:
-git clone https://github.com/Kalmar41k/neural-style-transfer-app.git
+git clone https://github.com/Kalmar41k/simple_style_transfer.git
 cd neural-style-transfer-app
 conda create --name nst-env --file environment.yml
 streamlit run app.py
